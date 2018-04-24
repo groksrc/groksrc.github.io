@@ -1,3 +1,7 @@
+# groksrc.com
+
+The [groksrc.com](http://groksrc.com) site is powered by [Jekyll](http://jekyllrb.com) on [GitHub Pages](https://pages.github.com/) with the [Laynon](http://lanyon.getpoole.com/) theme.
+
 # Lanyon
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
