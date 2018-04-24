@@ -4,18 +4,18 @@
 permalink:           pretty
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               groksrc.com
+tagline:             'A blog for software engineers'
+description:         'groksrc.com is a blog for sofware engineers. All thoughts are my own and do not represent those of my employer. Made by <a href="https://twitter.com/groksrc" target="_blank">@groksrc</a>.'
+url:                 http://www.groksrc.com
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Drew Cain
+  url:               https://twitter.com/groksrc
+  email:             groksrc@gmail.com
 
 # Custom vars
 version:             1.0.0
