@@ -32,7 +32,7 @@ It's unfortunate (imho) that React doesn't take a more pronounced approach on wh
 
 With vue-router and vuex we are given the recommended path, which in cases of frameworks like this, happens to be exceedingly helpful. It reduces the amount of discovery necessary and leads you to more consistent implementations across projects. In a large environment I find this point to be expecially compelling.
 
-## summary
+## Summary
 I'm sorry for any react fans I may have rubbed the wrong way. This wasn't to bash React as much as it was to talk up the benefits of vue.js and React is obviously a primary basis for comparison. React is clearly a popular choice, and valuable technology. But I hope you have the chance to spend some time with vue.js. It's a great framework for small and large projects. It has my full throated endorsement.
 
 g
