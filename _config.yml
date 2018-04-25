@@ -24,7 +24,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://groksrc.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Pagination
-paginate:            1
+paginate:            2
 
 # About/contact
 author:
