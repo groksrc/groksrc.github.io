@@ -16,9 +16,9 @@
 
 # Setup
 title:                groksrc.com
-tagline:              'A blog for software engineers'
+tagline:              'by Drew Cain'
 description: >- # this means to ignore newlines until "baseurl:"
-  groksrc.com is a blog for sofware engineers. All thoughts are my own and do not represent those of my employer.
+  groksrc.com is the home page of Drew Cain.
   Made by <a href="https://twitter.com/groksrc" target="_blank">@groksrc</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://groksrc.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -33,7 +33,7 @@ author:
   email:             groksrc@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             2.0.1
 
 
 plugins:
