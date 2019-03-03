@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   groksrc.com is the home page of Drew Cain.
   Made by <a href="https://twitter.com/groksrc" target="_blank">@groksrc</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://groksrc.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://groksrc.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Pagination
 paginate:            2
@@ -29,12 +29,14 @@ paginate:            2
 # About/contact
 author:
   name:              Drew Cain
-  url:               https://twitter.com/groksrc
+  url:               https://linkedin.com/in/groksrc
   email:             groksrc@gmail.com
 
 # Custom vars
-version:             2.0.1
+version:             2.0.2
 
+sass:
+  sass_dir: css
 
 plugins:
   - jekyll-feed
